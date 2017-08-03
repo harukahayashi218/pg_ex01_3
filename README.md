@@ -1,4 +1,4 @@
-Work of Programing Class  
+Work of Programming Class  
 (Word Frequency Checking Program)
 ======================
 Overview  
